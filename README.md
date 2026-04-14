@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Building DSA projects in Java<br>Solving LeetCode problems<br>👯 I’m looking to collaborate on<br>Open source projects<br>Web development projects<br>AI / Data Analytics projects<br>🤝 I’m looking for help with<br>Advanced DSA<br>Backend development<br>🌱 I’m currently learning<br>Data Structures & Algorithms<br>Java <br>💬 Ask me about<br>Java basics<br>Arrays & Linked Lists<br>Problem solving
-
+🔭 I’m currently working on<br>Building DSA projects in Java<br>Solving LeetCode problems<br>👯 I’m looking to collaborate on<br>Open source projects<br>Web development projects<br>AI / Data Analytics projects<br>🤝 I’m looking for help with<br>Advanced DSA<br>Backend development<br>🌱 I’m currently learning<br>Data Structures & Algorithms<br>Java <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-srivastava-464a4a2a0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushsrivastava1706@gmail.com) 
